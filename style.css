@@ -42,7 +42,7 @@ h2, h3{
 }
 #encabezado h1{
 	background: rgba(0,0,0,0.5);
-	color: linear-gradient(to bottom, #005daa 0%,#00bfe5 84%,#eef213 84%,#dce011 86%,#a5a5a5 87%,#eeeeee 95%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	color: #fff;
 	padding: 10px 0;
 	margin: 25px 0;
 	font-family: 'Baloo', cursive;
